@@ -1,6 +1,6 @@
-# YOLOv4 Real-Time Object Detection Using Laptop Camera
-## MOHAMMAD FAIZAL SK
-## 212223240092
+# Workshop 5 - Real-Time Object Detection Using Laptop Camera
+## JANANI k
+## 212224230102
 
 ### Aim:
 To perform real-time object detection using a pre-trained YOLOv4 model through a laptop webcam and display detected objects inline in a Jupyter Notebook.
@@ -106,6 +106,7 @@ thread = Thread(target=detect_objects)
 thread.start()
 ```
 ### Output
+
 <img width="889" height="670" alt="image" src="https://github.com/user-attachments/assets/d1052bbb-d68d-4d5f-9d24-70dd779f4276" />
 
 ### Result:
