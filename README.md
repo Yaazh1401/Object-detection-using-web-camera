@@ -1,4 +1,4 @@
-# Workshop 5 - Real-Time Object Detection Using Laptop Camera
+# Workshop 2 - Real-Time Object Detection Using Laptop Camera
 ## JANANI k
 ## 212224230102
 
